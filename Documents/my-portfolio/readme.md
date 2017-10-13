@@ -5,21 +5,17 @@
 
 ## Description
 
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a detailed description about, my education background, interest , my recent projects and lastly my job experience.
 
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+ This PortFolio can be accessed through my git-hub on the following link: https://github.com/collinsjumaz/portfolio.git 
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+You only need internet access and a browser.
 
-## Known Bugs
+ Known Bugs
 
 The software was produced without any bugs.
-## Technologies Used
+ Technologies Used
 
 I have used HTML , css and bootstarp for styling my page.
 ## Support and contact details
