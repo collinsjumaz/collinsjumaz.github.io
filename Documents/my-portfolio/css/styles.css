@@ -10,15 +10,16 @@ h2{
 p {
   font-family: sans-serif;
 }
-ul{
+ol{
   line-height: 40px;
 }
 .container {
-  color: blue;
+  color: black;
 }
 body {
   font-style: normal;
-  font-size: 12px;
+  font-size: 10;
   font-family: sans-serif;
+  text-align: right;
 
 }
