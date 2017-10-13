@@ -1,18 +1,18 @@
 h1 {
   text-decoration: underline;
-  color: green;
+  color: maroon;
   text-align: center;
 }
 h2{
   text-decoration: underline;
-  color: red;
+  color: blue;
   font-style: italic;
   text-align: center;
 }
 
 h3{
   text-decoration: underline;
-  color: afee54b;
+  color: purple;
   font-style: italic;
   text-align: center;
 }
