@@ -10,6 +10,12 @@ h2{
   text-align: center;
 }
 
+h3{
+  text-decoration: underline;
+  color: afee54b;
+  font-style: italic;
+  text-align: center;
+}
 ol{
   line-height: 40px;
 }
