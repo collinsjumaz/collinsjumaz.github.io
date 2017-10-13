@@ -7,14 +7,15 @@ h2{
   text-decoration: underline;
   color: blue;
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 
 h3{
   text-decoration: underline;
+  font-size: 20px;
   color: purple;
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 ol{
   line-height: 40px;
