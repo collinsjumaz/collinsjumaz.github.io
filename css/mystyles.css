@@ -1,0 +1,28 @@
+.main {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.about {
+  text-align: left;
+}
+
+.headshot {
+  float: right;
+  padding-top: 50px;
+  padding-left: 200px;
+}
+
+.img {
+  text-align: center;
+}
+
+.project-title {
+  font-style: italic;
+}
+
+.footer {
+	background-color: navy;
+	color: white;
+  text-align: center;
+}
