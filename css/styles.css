@@ -20,6 +20,9 @@ h3{
 ol{
   line-height: 40px;
 }
+.jumbotron{
+  width: 100%;
+}
 
 .para {
   color: :black;
