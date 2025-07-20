@@ -1,5 +1,5 @@
 #My PortFolio
-#### My PortFolio A webpage about me , 14/10/2017
+#### My PortFolio A webpage about me 
 
  By Collins Juma
 
@@ -27,4 +27,4 @@ Incase you experience any technical issues with our Software, please to contact 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sub-license, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-Copyright 2017.
+Copyright 2025.
